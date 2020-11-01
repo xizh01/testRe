@@ -4,4 +4,4 @@ origin
 
 worked on feature branch
 
-add something: feature branch
+add something: feature branch (get merged)
