@@ -1,1 +1,1 @@
-task of 1078
+print(1)
